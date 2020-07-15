@@ -1,0 +1,3 @@
+python classify_train_dev_test.py
+
+python ner_train_dev_test.py
