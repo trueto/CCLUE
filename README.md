@@ -5,6 +5,7 @@ A benchmark for Chinese ClinicalLanguage Understanding Evalution（CCLUE）
 
 ## CCLUE数据集
 
+
 | 名称 | 场景 | 训练集 | 验证集 | 测试集| 评价指标 |
 | : ------: | : ------: | : ------: | : ------: | : ------: | :------: |
 | Clinical-NER | 电子病历 | 1871 | 267 | 536| 严格F1 |
@@ -12,7 +13,9 @@ A benchmark for Chinese ClinicalLanguage Understanding Evalution（CCLUE）
 | Health-Match| 健康问答| 14000|2000|4000|Averaged F1|
 | Trial-Classify| 临床试验| 26838| 3834| 7669| Averaged F1|
 
+
 ## BERT模型在CCLUE中的表现
+
 
 | 名称 | 验证集F1 | 测试集F1 | 算法 |
 | : ------: |: ------: | : ------: | :------: |
