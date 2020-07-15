@@ -1,0 +1,10 @@
+id,label,text
+s8116,Multiple, 4. 患有精神疾病或其他严重基础疾病（呼吸循环系统慢性疾病，肝肾疾病，血液、免疫系统疾病，神经肌肉系统疾病，内分泌系统疾病）或各项临床检测指标（BUN、Cr、ALT等）超过正常参考值上限的2倍者；
+s6042,Diagnostic,① 符合慢性乙型肝炎部分应答诊断标准的患者；
+s3763,Disease, 2.有以下疾病或病史：
+s2092,Laboratory Examinations, 2、hiv、hbv、hcv及梅毒检测阳性；
+s16935,Diagnostic, c)病理提示有MVI（微血管癌栓）；
+s18373,Therapy or Surgery, 2.在入组前2周已按照疾病治疗原则完成相关手术、放疗、化疗、介入等相关治疗；
+s1198,Diagnostic,1、确诊的HIV/AIDS患者。
+s3978,Disease,1、患肢合并有腕关节功能障碍或者尺桡骨干畸形愈合等影响前臂旋转功能的疾患；
+s3351,Diagnostic, ②临床诊断为泪道阻塞或慢性泪囊炎

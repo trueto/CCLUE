@@ -1,0 +1,11 @@
+id,label,text
+s8576,Multiple,1）年龄18-65岁的女性患者
+s1375,Pharmaceutical Substance or Drug, 4.既往接受常规卡培他滨方案治疗无效的患者（治疗无效定义为卡培他滨联合或单药治疗的最佳疗效为PD），或既往接受过卡培他滨治疗有效但停止用药不足6个月的患者;
+s1517,Therapy or Surgery,1.之前接受过化疗或生物治疗
+s7212,Addictive Behavior, 酗酒者；
+s2008,Diagnostic, ⑵ 符合中医中风病恢复期痰瘀互结兼气虚证诊断标准或痰瘀互结兼阴虚证诊断标准；
+s15340,Addictive Behavior,   (7)曾有酒精或药物滥用史。
+s3392,Pharmaceutical Substance or Drug, 既往未使用过去甲基化等药物，如5氮杂胞苷(5-AZA)及地西他滨(DAC)等；三个月以内未使用过诱导分化的药物，如全反式维甲酸(ATRA)、丙戊酸（VPA）和三氧化二砷（ATO）等；
+s18166,Multiple, ④ 接受过一种系统性化疗方案治疗或者接受过EGFR—TKI、ALK抑制剂治疗进展并未检测到驱动基因的二线患者；
+s2053,Multiple, （2）性别不限，年龄在18-85岁的患者；
+s14227,Multiple, 5.有病毒性肝炎或其它禁忌使用英夫利昔单抗者
