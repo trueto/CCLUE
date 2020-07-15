@@ -7,7 +7,7 @@ A benchmark for Chinese ClinicalLanguage Understanding Evalution（CCLUE）
 
 
 | 名称 | 场景 | 训练集 | 验证集 | 测试集| 评价指标 |
-| : ------: | : ------: | : ------: | : ------: | : ------: | :------: |
+:-: | :-: | :-: | :-: | :-: | :-:
 | Clinical-NER | 电子病历 | 1871 | 267 | 536| 严格F1 |
 | Diabetes-NER | 糖尿病指南或文献 | 6689 |955 | 1912|严格F1|
 | Health-Match| 健康问答| 14000|2000|4000|Averaged F1|
@@ -18,7 +18,7 @@ A benchmark for Chinese ClinicalLanguage Understanding Evalution（CCLUE）
 
 
 | 名称 | 验证集F1 | 测试集F1 | 算法 |
-| : ------: |: ------: | : ------: | :------: |
+:-: |:-: | :-: | :-: 
 | Clinical-NER| 0.5715 | 0.5873 | BERT+LSTM+CRF多模融合|
 | Diabetes-NER| 0.7861 | 0.7789	| BERT+LSTM+CRF多模融合 |
 | Health-Match| 0.8864 | 0.8899 | BERT多模融合|
